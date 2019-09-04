@@ -13,6 +13,7 @@
         <module>parse</module>
         <module>parse</module>
         <module>common</module>
+        <module>jdbc</module>
     </modules>
 
 </project>
