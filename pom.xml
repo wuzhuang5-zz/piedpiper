@@ -12,6 +12,7 @@
         <module>route</module>
         <module>parse</module>
         <module>parse</module>
+        <module>common</module>
     </modules>
 
 </project>
