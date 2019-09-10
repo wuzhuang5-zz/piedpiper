@@ -9,11 +9,7 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>route</module>
         <module>parse</module>
-        <module>parse</module>
-        <module>common</module>
-        <module>jdbc</module>
     </modules>
 
 </project>
